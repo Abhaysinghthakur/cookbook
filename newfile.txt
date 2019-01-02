@@ -1,3 +1,5 @@
 Hello world!
 
 this is diff
+
+new is newer
